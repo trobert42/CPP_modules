@@ -12,13 +12,15 @@ Object-oriented programming (OOP) is a coding style focused on objects, which ar
 
 | Project | Topics |
 |-----|--------|
-| [cpp00](https://https://github.com/trobert42/CPP_modules/tree/main/cpp00) | Classes, member functions, stdio stream, namespace, init lists, const, static .. |
-| [cpp01](https://https://github.com/trobert42/CPP_modules/tree/main/cpp01) | Memory allocation with `New`, pointers to members, references, switch statement |
-| [cpp02](https://https://github.com/trobert42/CPP_modules/tree/main/cpp02) | Ad-hoc polymorphism, operator overloads and orthodox canonical class form |
-| [cpp03](https://https://github.com/trobert42/CPP_modules/tree/main/cpp03) | Inheritance |
-| [cpp04](https://https://github.com/trobert42/CPP_modules/tree/main/cpp04) | Subtype polymorphism, abstract classes, interfaces |
-| [cpp05](https://https://github.com/trobert42/CPP_modules/tree/main/cpp05) | Repetition and Exceptions with `try/catch` |
-| [cpp06](https://https://github.com/trobert42/CPP_modules/tree/main/cpp06) | C++ casts |
-| [cpp07](https://https://github.com/trobert42/CPP_modules/tree/main/cpp07) | C++ templates |
-| [cpp08](https://https://github.com/trobert42/CPP_modules/tree/main/cpp08) | Templated containers, iterators, algorithms |
-| [cpp09](https://https://github.com/trobert42/CPP_modules/tree/main/cpp09) | Templated containers, iterators, algorithms |
+| [cpp00](https://github.com/trobert42/CPP_modules/tree/main/cpp00) | Classes, member functions, stdio stream, namespace, init lists, const, static |
+| [cpp01](https://github.com/trobert42/CPP_modules/tree/main/cpp01) | Memory allocation with `New`, pointers to members, references, switch statement |
+| [cpp02](https://github.com/trobert42/CPP_modules/tree/main/cpp02) | Ad-hoc polymorphism, operator overloads and orthodox canonical class form |
+| [cpp03](https://github.com/trobert42/CPP_modules/tree/main/cpp03) | Inheritance |
+| [cpp04](https://github.com/trobert42/CPP_modules/tree/main/cpp04) | Subtype polymorphism, abstract classes, interfaces |
+| [cpp05](https://github.com/trobert42/CPP_modules/tree/main/cpp05) | Repetition and Exceptions with `try/catch` |
+| [cpp06](https://github.com/trobert42/CPP_modules/tree/main/cpp06) | C++ casts |
+| [cpp07](https://github.com/trobert42/CPP_modules/tree/main/cpp07) | C++ templates |
+| [cpp08](https://github.com/trobert42/CPP_modules/tree/main/cpp08) | Templated containers, iterators, algorithms |
+| [cpp09](https://github.com/trobert42/CPP_modules/tree/main/cpp09) | Templated containers, iterators, algorithms |
+
+
